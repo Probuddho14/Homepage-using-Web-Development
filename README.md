@@ -1,6 +1,7 @@
 # Information and Instructions
-This is an alternate HomePage for 1stop.ai made using HTML, CSS, JavaScript, jQuery, Bootstrap, and Popper.js.
++ **This is an alternate HomePage for 1stop.ai made using HTML, CSS, JavaScript, jQuery, Bootstrap, and Popper.js.**
 
-This is a minor project that I made under 1stop.ai in collaboration with Indian Institute of Technology, Bhubaneswar.
++ **This webpage has many links to it in the form of buttons, icons, images etc. that are clickable.**
 
-Before trying to run the HTML code, please: i) Create a single folder in your local machine. ii) In that folder, keep the HTML file, and all the other folders that you can find in the 2nd branch of the repository named "resources". Copy those folders to the single folder that was created earlier. iii) Run the HTML file.
++ **This is a minor project that I made under 1stop.ai in collaboration with Indian Institute of Technology, Bhubaneswar.**
+
